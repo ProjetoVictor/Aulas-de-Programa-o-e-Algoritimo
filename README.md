@@ -1,1 +1,1 @@
-# Aulas-de-Programa-o-e-Algoritimo
+# Aulas-de-Programação-Algoritimo
