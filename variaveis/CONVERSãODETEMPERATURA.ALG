@@ -6,7 +6,7 @@ Algoritmo "ConversãoDeTemperatura"
 // Data atual  : 16/03/2021
 Var
 
-fahrenheit,celsius:real
+fahrenheit, celsius:real
 
 Inicio
 
@@ -15,10 +15,10 @@ escreval("Quanto ta a temperatura em graus celsius: ")
 leia(celsius)
 
 //Processamento
- fahrenheit <- ( celsius × 9/5) + 32
+ fahrenheit <- ( celsius * 9/5) + 32
 
  //Saida
-escreval(celsius"o celsius, convertido em fahrenheit ficara: ")
+escreval( celsius," celsius convertido em fahrenheit ficara:" ,fahrenheit," fahrenheit")
 
 
 Fimalgoritmo

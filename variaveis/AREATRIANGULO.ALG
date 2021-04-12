@@ -10,7 +10,7 @@ leia(base)
 escreval("digite a altura do triangulo")
 leia(altura)
 
-area <- base*altura
+area <- base*altura/2
 
 escreval("A area do triangulo e:", area, "m2")
 

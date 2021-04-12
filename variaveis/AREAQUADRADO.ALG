@@ -5,10 +5,10 @@ Algoritmo "AreaQuadrado"
 Var
 base,area:real
 Inicio
-escreval:("digite base a do quadrado:")
+escreval("digite base a do quadrado:")
 leia(base)
 
-area<-base*base
+area<-base* base
 
 escreval("a area do quadrado e:",area,"m2")
 
